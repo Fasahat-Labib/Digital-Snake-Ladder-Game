@@ -9,3 +9,10 @@ and the ladder. We have chosen red and blue for player 1 and 2 respectively, yel
 shifts the players’ position by that number. If a snake or a ladder is met, the player is demoted or promoted. The new 4-bit position of the player is stored in the memory and a player selector module is used to make 
 players take turns to roll the dice. The player reaching the position 15 first wins the game. A win is determined by the winning module that compares the player’s current position to the winning condition. The win is then 
 visually represented with buzzers and LEDs to notify the other player about the game result. There is also a reset module that can start the game all over from any position. 
+
+INTRODUCTION TO DIGITAL SNAKE LADDER GAME : https://www.youtube.com/watch?v=zEkmXcDGWcE&t=1084s
+THE FINISHED PROJECT EXPLANATION BY THE TEAM NSB : https://www.youtube.com/watch?v=jWulNe_WzFA&t=121s
+
+
+HAPPY ENGINEERING!!! 
+TEAM NSB
